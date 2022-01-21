@@ -1,0 +1,810 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.PAUL {
+    font-family: "Bree serif";
+    color: #183b56;
+
+}
+
+.project-main-image {
+    height: 65vh;
+
+}
+
+.project-text-card {
+    text-align: center;
+    font-family: "bree serif";
+
+}
+
+.project-heading {
+    color: #183b56;
+}
+
+.project-description {
+    color: #616e7c;
+}
+
+.project-images {
+    height: 100px;
+    width: 200px;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.project-names {
+    font-family: "bree serif";
+    font-size: 18px;
+}
+
+.projects-card {}
+
+.bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/ocean.jpg");
+    height: 100vh;
+    background-size: cover;
+    text-align: center;
+}
+
+.tourism-card {
+    background-color: white;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    padding: 8px;
+
+}
+
+.tourism-heading {
+    font-family: "roboto";
+    font-size: 32px;
+    padding: 8px;
+}
+
+.tourism-button {
+    height: 35px;
+    width: 138px;
+    border-radius: 10px;
+    border-width: 0px;
+}
+
+.places-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/towerbg.png");
+    height: 145vh;
+    background-size: cover;
+}
+
+.heading {
+    color: white;
+    padding: 15px;
+    font-weight: bold;
+    font-family: "roboto";
+}
+
+.places-card {
+    background-color: white;
+    padding: 15px;
+    border-radius: 15px;
+    margin: 15px;
+
+}
+
+.places-heading {
+    font-size: 32px;
+    color: #0f0e46;
+
+}
+
+.Taj-image {
+    height: 125px;
+    border-radius: 8px;
+}
+
+.button-favourite-places {
+    margin: 15px;
+    padding: 8px;
+}
+
+.detailed-view-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png");
+    height: 115vh;
+    background-size: cover;
+}
+
+.detailed-view-heading {
+    color: white;
+    font-size: 28px;
+    font-family: 'Roboto';
+    font-weight: bold;
+    padding: 24px;
+}
+
+.detailed-view-card-container {
+    background-color: white;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    margin: 24px;
+}
+
+.detailed-view-text-container {
+    padding: 16px;
+}
+
+.detailed-view-card-heading {
+    color: #0f0e46;
+    font-family: "roboto";
+    font-weight: bold;
+    font-size: 22px;
+
+}
+
+.detailed-view-description {
+    color: #6c6b70;
+    font-family: "roboto";
+    font-size: 13px;
+
+}
+
+.golden-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png");
+    height: 135vh;
+    background-size: cover;
+}
+
+.golden-heading {
+    font-family: "roboto";
+    color: white;
+    padding: 28px;
+    font-weight: bold;
+    font-size: 32px;
+}
+
+.golden-text-container {
+    padding: 15px;
+}
+
+.golden-card {
+    background-color: white;
+    margin: 25px;
+
+}
+
+.golden-text {
+    font-family: "roboto";
+    font-size: 28px;
+    font-weight: bold;
+
+}
+
+.golden-description {
+    font-family: "roboto";
+
+}
+
+.button {
+    margin: 15px;
+}
+
+.Mysore-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png");
+    height: 125vh;
+    background-size: cover;
+}
+
+.Mysore-heading {
+    color: white;
+    padding: 15px;
+    font-family: "roboto";
+    font-weight: bold;
+    font-size: 32px;
+}
+
+.Mysore-card {
+    background-color: white;
+    margin: 15px;
+}
+
+.Mysore-Text {
+    padding: 15px;
+}
+
+.Varnasi-Conatiner {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png");
+    height: 155vh;
+    background-size: cover;
+}
+
+.Varnasi-DetailedView-Heading {
+    font-family: "roboto";
+    color: white;
+    font-weight: bold;
+    font-size: 32px;
+    padding: 15px;
+}
+
+.Varnasi-Card {
+    margin: 15px;
+    background-color: white;
+}
+
+.varnasi-text-container {
+    padding: 10px;
+}
+
+.varnasi-heading {
+    font-style: "roboto";
+    font-size: 32px;
+
+}
+
+.button {
+    margin: 15px;
+}
+
+.list-items {
+    list-style-type: upper-roman;
+}
+
+.goa-heading {
+    padding: 15px;
+    color: #323f4b;
+}
+
+.goa-description {
+    margin: 15px;
+    color: #9aa5b1;
+}
+
+.videos-card {
+    padding: 15px;
+
+}
+
+
+.food-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/foodbg.png");
+    background-size: cover;
+    height: 100vh;
+
+}
+
+.meal-card {
+    background-color: #f6c56e;
+    padding: 24px;
+    border-top-left-radius: 16px;
+    border-top-right-radius: 16px;
+}
+
+.main-heading {
+    font-family: "bree serif";
+    color: #323f4b;
+    font-size: 30px;
+}
+
+.paragraph {
+    font-family: "roboto";
+    font-weight: bold;
+    color: #323f4b;
+    font-size: 16px;
+}
+
+.food-button {
+    font-family: "roboto";
+    background-color: #ffffff;
+    border-width: 0px;
+    border-radius: 5px;
+    padding: 5px;
+    height: 38px;
+    width: 120px;
+    font-size: 12px;
+}
+
+
+
+.hotel-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/hotelbg.png");
+    height: 100vh;
+    background-size: cover;
+    padding: 8px;
+}
+
+.hotel-card {
+    background-color: #000000e6;
+    border-radius: 15px;
+    margin: 15px;
+    padding: 15px;
+
+}
+
+.hotel-text {
+    color: #ffffff;
+    font-family: "bree serif";
+    font-size: 30px;
+}
+
+.hotel-paragraph {
+    color: #ffffff;
+    font-family: "roboto";
+
+}
+
+.hotel-price {
+    color: #ffffff;
+    font-family: "bree serif";
+    padding: 15px;
+}
+
+.button {
+    text-align: center;
+    background-color: white;
+    color: black;
+    border-radius: 8px;
+    width: 138px;
+    font-family: "roboto";
+    margin: 15px;
+}
+
+.covid-container {
+    border-color: #0967d219;
+    border-width: 5px;
+    border-style: solid;
+}
+
+.covid-card {
+    padding: 8px;
+}
+
+.covid-text {
+    font-family: "roboto";
+    font-size: 22px;
+    color: #323f4b;
+
+}
+
+.test-card {
+    background-color: #0967d219;
+    margin: 8px;
+    padding: 8px;
+    border-radius: 12px;
+}
+
+.virus-image {
+    padding: 15px;
+    height: 95px;
+    width: 100px;
+}
+
+.symptoms-card {
+    background-color: #3ebd93;
+    border-radius: 15px;
+    margin: 15px;
+    padding: 10px;
+}
+
+.symptos-names {
+    color: white;
+    font-family: "roboto";
+    font-size: 12px;
+    padding: 3px;
+
+}
+
+.symptoms-card-high-fever {
+    background-color: #e668a7;
+    border-radius: 15px;
+    margin: 15px;
+    padding: 10px;
+}
+
+.symptoms-card-headache {
+    background-color: #a368fc;
+    border-radius: 15px;
+    margin: 15px;
+    padding: 10px;
+}
+
+.symptoms-video {
+    padding: 15px;
+    font-size: 25px;
+}
+
+.doctor-card {
+    background-color: #e12d3919;
+    padding: 22px;
+    margin: 15px;
+    border-radius: 15px;
+
+}
+
+.doctor-card-heading {
+    font-family: "roboto";
+    color: #323f4b;
+    font-size: 20px;
+
+}
+
+.docotr-image {
+    height: 50px;
+    width: 80px;
+    margin: 8px;
+}
+
+.doctor-card-description {
+    font-family: "roboto";
+    font-size: 15px;
+    font-weight: 500;
+}
+
+
+.KL-card-container {
+    background-color: #fb4e71;
+}
+
+.KL-heading {
+    font-family: "roboto";
+    color: #ffffff;
+    padding: 8px;
+
+}
+
+.KL-description {
+    color: #ffffff;
+    padding: 8px;
+}
+
+.ipl-container {
+    background-color: #e6f6ff;
+    height: 500px;
+    padding: 15px;
+
+}
+
+.ipl-heading {
+    font-size: 22px;
+    font-family: "roboto";
+    font-weight: bold;
+}
+
+.ipl-card {
+    font-family: "roboto";
+    font-size: 18px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    margin: 10px;
+}
+
+.ipl-text-heading {
+    font-size: 18px;
+    font-family: "roboto";
+    padding: 8px;
+}
+
+.ipl-text-description {
+    font-size: 15px;
+    font-family: "roboto";
+    padding: 8px;
+}
+
+
+.sky-container {
+    background-color: #03174c;
+    height: 120vh;
+    background-size: cover;
+    text-align: center;
+
+}
+
+.sleep-card {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-stars-bg.png");
+    height: 40vh;
+    background-size: cover;
+    padding: 30px;
+
+}
+
+.sleep-names {
+    font-family: "bree serif";
+    color: #ffffff;
+
+}
+
+.button-container {
+    text-align: center;
+}
+
+.Night-Island-container {
+    background-color: #03174c;
+    height: 150vh;
+    background-size: cover;
+
+}
+
+.night-island-card {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-bg.png");
+    background-size: cover;
+    height: 35vh;
+    margin: 10px;
+}
+
+.night-island-text {
+    padding: 55px;
+
+}
+
+.button {
+    border-radius: 15px;
+    background-color: #8e97fd;
+    border-width: 0px;
+    color: white;
+    font-family: "bree serif";
+    height: 32px;
+    width: 125px;
+}
+
+.Night-Island-Image {
+    height: 50vh;
+}
+
+.night-island-text-card {
+    padding: 10px;
+}
+
+.Night-Island-description {
+    color: #98a1bd;
+    font-family: "bree serif";
+}
+
+.Night-Island-Related-Images {
+    height: 20vh;
+}
+
+.Night-Island-Related-headings {
+    font-size: 18px;
+    font-family: "bree serif";
+    color: white;
+}
+
+.related-music-card {
+    margin: 5px;
+    padding: 5px;
+}
+
+.coding-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/codingbg.png");
+    background-size: cover;
+    height: 105vh;
+    padding: 25px;
+}
+
+.code-card {
+    background-color: #00000080;
+    border-color: #48ee59;
+    border-style: solid;
+    padding: 45px;
+    border-width: 6px;
+
+}
+
+.heading {
+    font-family: "bree serif";
+    color: white;
+}
+
+.news-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/newsbg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.news-card {
+    background-color: #ffffff;
+    color: #7b8794;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    padding: 15px;
+}
+
+.description {}
+
+.news-heading {
+    font-size: 25px;
+    color: #323f4b;
+}
+
+.paragraph {
+    color: #7b8794;
+}
+
+.button {
+    color: #ffffff;
+    width: 138px;
+    background-color: #323f4b;
+    padding: 10px;
+    margin: 10px;
+    border-width: 0px;
+    border-radius: 5px;
+}
+
+.technologies-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png");
+    background-size: cover;
+    height: 100vh;
+
+
+}
+
+.technologies-card {
+    background-color: #ffffff;
+    border-top-left-radius: 16px;
+    border-top-right-radius: 16px;
+    padding: 25px;
+
+}
+
+.main-heading {
+    color: #5752ab;
+    font-family: "bree serif";
+    font-size: 24px;
+
+
+}
+
+.description {
+    color: #323f4b;
+    font-family: "roboto";
+}
+
+.button-save {
+    background-color: #5752ab;
+    color: #ffffff;
+    border-width: 0px;
+    width: 138px;
+    border-radius: 5px;
+    height: 36px;
+    margin-left: 5px;
+
+
+}
+
+.button-learn {
+    background-color: #ffffff;
+    border-width: 1px;
+    width: 126px;
+    height: 38px;
+    color: #171f46;
+    margin-right: 5px;
+    font-family: "roboto";
+    border-radius: 5px;
+
+}
+
+
+
+.Todolist-card {
+    text-align: center;
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/todolistbg.png");
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+    color: white;
+
+}
+
+.card-title {
+    font-family: "roboto";
+    text-align: center;
+}
+
+.card-title2 {
+    text-align: left;
+    font-family: "roboto";
+    font-size: 12px;
+}
+
+.card-title3 {
+    text-align: center;
+
+}
+
+.button {
+    height: 36px;
+    width: 90px;
+    background-color: orange;
+    color: white;
+
+    font-size: 15px;
+}
+
+.todolist-paragraph {
+    text-decoration: underline;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+.podcast-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png");
+    height: 50vh;
+    background-size: cover;
+
+
+}
+
+.podcast-image-heading {
+    font-family: "Roboto";
+    padding: 18px;
+    color: white;
+
+}
+
+.podcast-members-container {
+    text-align: center;
+}
+
+.podcast-text-card {
+    padding: 18px;
+
+}
+
+.podcast-image {
+    height: 25vh;
+}
+
+.podcast-heading {
+    font-size: 22px;
+    font-family: "Roboto";
+    color: #151765;
+    font-weight: bold;
+}
+
+.podcast-card {
+    background-color: #151765;
+    padding: 20px;
+}
+
+.podcast-paragrapgh {
+    font-family: "Roboto";
+    color: white;
+
+}
+
+.podcast-text-card {
+    padding: 8px;
+}
+
+.podcast-heading {
+    font-family: "Roboto";
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.podcast-cards {
+    margin: 15px;
+}
+
+.podcast-headings {
+    font-family: "Roboto";
+    color: #151765;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.podcast-description {
+    color: #151765;
+}
+
+.podcast-button {
+    background-color: #151765;
+    height: 32px;
+    width: 136px;
+    color: white;
+    font-weight: bold;
+    border-radius: 8px;
+    border-width: 0px;
+
+}
